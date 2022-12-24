@@ -1,0 +1,94 @@
+  .accordion {
+    border-width: none !important;
+    border-color: transparent !important;
+  }
+  .accordion-button {
+    background-color: transparent !important;
+  }
+  .accordion-button:focus {
+    box-shadow: none;
+  }
+  .accordion-button::after {
+    display: none;
+  }
+  
+  .accordion-button:not(.collapsed) {
+    color: #212529;
+  }
+  .accordion-item {
+    border: none !important;
+    background-color: #f5f7fa;
+    border-radius: 28px !important;
+    margin-bottom: 30px;
+  }
+
+  /* .accordion-collapse {
+    background-color: #212529;
+  } */
+  .form-control {
+    /* border: transparent !important; */
+    border-bottom: 1px solid #794ECD;
+  }
+  .form-control:hover {
+    border: none !important;
+  }
+  .form-group {
+    border: none !important;
+  }
+
+.form-check-input[type=checkbox] {
+    /* background-color: #794ECD; */
+    border: px solid #794ECD !important;
+}
+.form-check-input:checked[type=checkbox] {
+  background-color: #FDB348;
+}
+.form-check-input:focus {
+  box-shadow: none;
+}
+
+.modal-content {
+  width: 85%;
+  background-color: #FDB348;
+  padding: 35px;
+  text-align: center;
+}
+.modal-header {
+  border-bottom: none;
+}
+.modal-footer {
+  border-top: none;
+}
+
+.CircularProgressbar {
+  /* width: 140px; */
+  width: 120px;
+}
+.CircularProgressbar-text {
+  transform: translate(-20px, 5px);
+}
+
+.card .step {
+  border: none;
+  border-radius: 28px;
+}
+
+.step-card {
+  border-radius: 28px;
+  background-color: #f5f7fa;
+  height: 120px;
+  /* overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: break-spaces; */
+}
+.step-card-more-text {
+  border-radius: 28px;
+  background-color: #f5f7fa;
+}
+/* .step-card:hover {
+  background-color: #f5f7fa;
+  margin: 2px 0;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  height: auto;
+  z-index: 1000;
+} */
