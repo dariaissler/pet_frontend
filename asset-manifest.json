@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pet_frontend/static/css/main.f12be82d.css",
+    "main.js": "/pet_frontend/static/js/main.d45a62d9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/pet_frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/turkey.jpg": "/pet_frontend/static/media/turkey.75a77eddb49dcc366c9b.jpg",
+    "index.html": "/pet_frontend/index.html",
+    "main.f12be82d.css.map": "/pet_frontend/static/css/main.f12be82d.css.map",
+    "main.d45a62d9.js.map": "/pet_frontend/static/js/main.d45a62d9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/pet_frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12be82d.css",
+    "static/js/main.d45a62d9.js"
+  ]
+}
